@@ -1,0 +1,2 @@
+# LongStoryGateWayRepo
+Gateway for LongStory
